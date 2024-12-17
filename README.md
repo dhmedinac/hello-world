@@ -9,6 +9,10 @@ change 2 11:40 am in rama_nueva
 
 ### change 3
 
+<<<<<<< HEAD
 change 4
 
 change 5
+=======
+change 4
+>>>>>>> rama3
